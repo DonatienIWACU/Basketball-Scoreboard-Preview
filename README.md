@@ -27,4 +27,4 @@ JavaScript (ES6) – interactive score logic
 🖼️ Preview
 
 (Add your screenshot or demo GIF here)
-Example:![Basketball Scoreboard Preview](basketball scoreboard.png)
+Example:![Basketball Scoreboard Preview](basketball scoreboard.PNG)
