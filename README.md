@@ -24,7 +24,6 @@ CSS3 – styling and digital font
 
 JavaScript (ES6) – interactive score logic
 
-🖼️ Preview
+🖼️ Preview  
+[https://basketbal-scoreboard-app.netlify.app/](https://basketbal-scoreboard-app.netlify.app/)
 
-(Add your screenshot or demo GIF here)
-Example:![Basketball Scoreboard Preview](basketball scoreboard.PNG)
